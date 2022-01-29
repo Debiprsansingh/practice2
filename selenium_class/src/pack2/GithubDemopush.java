@@ -6,6 +6,8 @@ public class GithubDemopush {
 		// TODO Auto-generated method stub
 
 		System.out.println("trying with GIT");
+		
+		System.out.println("2nd push");
 	}
 
 }
