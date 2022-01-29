@@ -8,6 +8,8 @@ public class GithubDemopush {
 		System.out.println("trying with GIT");
 		
 		System.out.println("2nd push");
+		
+		System.out.println("3rd changes");
 	}
 
 }
