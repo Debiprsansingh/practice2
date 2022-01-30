@@ -8,7 +8,6 @@ public class Git_test1 {
 		
 		System.out.println("i am adding here the first line");
 		System.out.println("adding here 3rd line");
-		System.out.println("4th line");
 		
 	}
 
