@@ -6,7 +6,6 @@ public class Git_test1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("i am adding here the first line");
-		System.out.println("i am adding here the 2nd line");
 		
 	}
 
